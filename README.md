@@ -23,7 +23,7 @@ You will need the Fitbit app on your phone, as well as a Fitbit versa 3 or a Fit
 
 After these steps, you should see a list of your site's on Netlify, and selecting any of them will show you the options of running a build, publishing last deploy, activate/deactivate builds, activate/deactivate auto-publish
 
-If this does not work, feel free to email me at (munsondy@gmail.com)[mailto:munsondy@gmail.com]
+If this does not work, feel free to email me at [munsondy@gmail.com](mailto:munsondy@gmail.com)
 
 ## What the app does
 
@@ -38,4 +38,4 @@ I am a pretty new programmer, and have never made a fitbit app specifically befo
 
 Let me know if you have any problems with the app and i can try to get to fixing it, i probably won't have time to add any features or make major changes as I have a full time job, a side business, and a 2 year old child
 
-Contact me at (munsondy@gmail.com)[mailto:munsondy@gmail.com]
+Contact me at [munsondy@gmail.com](mailto:munsondy@gmail.com)
