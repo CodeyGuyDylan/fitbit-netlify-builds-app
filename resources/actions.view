@@ -1,0 +1,17 @@
+<svg id="actions">
+  <use id="actionList" href="#tile-list">
+    <var id="separator-height-bottom" value="6" />
+    <use id="build" href="#action">
+      <set href="#text" attributeName="text-buffer" to="Run Build" />
+    </use>
+    <use id="publish_last_deploy" href="#action">
+      <set href="#text" attributeName="text-buffer" to="Publish Last Deploy" />
+    </use>
+    <use id="toggle_builds" href="#action">
+      <set href="#text" attributeName="text-buffer" to="" />
+    </use>
+    <use id="toggle_auto_publish" href="#action">
+      <set href="#text" attributeName="text-buffer" to="" />
+    </use>
+  </use>
+</svg>

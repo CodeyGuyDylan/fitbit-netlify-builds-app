@@ -1,0 +1,32 @@
+<svg>
+  <defs>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="import" href="/mnt/sysassets/system_widget.defs" />
+    
+    <link rel="import" href="/mnt/sysassets/widgets/baseview_widget.defs" />
+    <link rel="import" href="/mnt/sysassets/widgets/scrollbar.defs" />
+    <link rel="import" href="/mnt/sysassets/widgets/tile_list_widget.defs" />
+    
+    <symbol id="site" href="#tile-list-item" class="list-item-sites" display="none">
+      <rect class="bg-sites" />
+      <text id="text" />
+      <rect class="line-sites" />
+      <rect id="touch" pointer-events="all" />
+    </symbol>
+    
+    <symbol id="action" href="#tile-list-item" class="list-item-actions">
+      <rect class="bg-actions" />
+      <text id="text" />
+      <rect class="line-actions" />
+      <rect id="touch" pointer-events="all" />
+    </symbol>
+    
+    <symbol id="loading">
+      <g id="loadingAnimation" transform="translate(50%,50%)">
+        <arc x="$-75" y="$-75" width="150" height="150" fill="gray" arc-width="10" start-angle="0" sweep-angle="270" />
+        <animateTransform attributeType="rotate" from="0" to="11520" begin="enable" dur="16" />
+      </g>
+    </symbol>
+  </defs>
+</svg>
+

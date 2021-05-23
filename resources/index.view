@@ -1,0 +1,40 @@
+<svg>
+  <svg id="loading" display="inline">
+    <use id="loadingAnimation" href="#loading"/>
+  </svg>
+  
+  <svg id="success" display="none">
+    <image x='93' y='93' width='150' height='150' href='images/success.png' />
+  </svg>
+  
+  <svg id="error" display="none">
+    <image x='93' y='93' width='150' height='150' href='images/error.png' />
+  </svg>
+  
+  <svg id="sites" display="none">
+    <use id="sitesList" href="#tile-list">
+      <var id="virtual" value="1" />
+      <var id="reorder-enabled" value="0"/>
+      <var id="peek-enabled" value="0"/>
+      <var id="separator-height-bottom" value="2" />
+
+      <use id="my-sites" href="#tile-list-pool">
+        <use id="my-sites[0]" href="#site" />
+        <use id="my-sites[1]" href="#site" />
+        <use id="my-sites[2]" href="#site" />
+        <use id="my-sites[3]" href="#site" />
+        <use id="my-sites[4]" href="#site" />
+        <use id="my-sites[5]" href="#site" />
+        <use id="my-sites[6]" href="#site" />
+        <use id="my-sites[7]" href="#site" />
+        <use id="my-sites[8]" href="#site" />
+        <use id="my-sites[9]" href="#site" />
+        <use id="my-sites[10]" href="#site" />
+        <use id="my-sites[11]" href="#site" />
+        <use id="my-sites[12]" href="#site" />
+        <use id="my-sites[13]" href="#site" />
+        <use id="my-sites[14]" href="#site" />
+      </use>
+    </use>
+  </svg>
+</svg>
